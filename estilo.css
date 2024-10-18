@@ -1,0 +1,23 @@
+#intro{
+    background-color: darkseagreen;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+background-color: darkseagreen;
+}
+
+.cla{
+    background-color: darkseagreen;
+}
+
+.imagen-sarah{
+    width: 25%;
+    height: 25%;
+    padding: 10px;
+    
+}
+
+.de{
+    background-color: darkseagreen;
+}
